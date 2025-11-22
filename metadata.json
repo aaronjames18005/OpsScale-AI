@@ -1,0 +1,5 @@
+{
+  "name": "OpsScale AI",
+  "description": "A comprehensive DevOps dashboard featuring AI-driven scaling advice, automated deployment pipeline visualization, and infrastructure script generation using Gemini models.",
+  "requestFramePermissions": []
+}
