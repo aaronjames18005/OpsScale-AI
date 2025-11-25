@@ -70,11 +70,11 @@ Generate production-ready IaC scripts using Gemini AI:
 Add images in your repo like:
 
 <p align="center">
-  <img src="public/screenshots/dashboard.png" width="85%" />
+  <img src="public/screenshots/Landing_Page.png" width="85%" />
 </p>
 
 <p align="center">
-  <img src="public/screenshots/dashboard.png" width="85%" />
+  <img src="public/screenshots/Login_Page.png" width="85%" />
 </p>
 
 <p align="center">
