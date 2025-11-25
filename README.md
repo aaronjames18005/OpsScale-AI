@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.png" width="80" />
+  <img src="Public/Logo.png" width="80" />
   <h1>OpsScale AI</h1>
   <p><strong>AI-Powered Deployment & Scaling Advisor</strong></p>
 
@@ -67,47 +67,43 @@ Generate production-ready IaC scripts using Gemini AI:
 
 ## 🖥️ UI Preview
 
-Add images in your repo like:
-
 <p align="center">
-  <img src="public/screenshots/Landing_Page.png" width="85%" />
+  <img src="Public/Screenshots/Landing Page.png" width="85%" />
 </p>
 
 <p align="center">
-  <img src="public/screenshots/Login_Page.png" width="85%" />
+  <img src="Public/Screenshots/Login Page.png" width="85%" />
 </p>
 
 <p align="center">
-  <img src="public/screenshots/dashboard.png" width="85%" />
+  <img src="Public/Screenshots/Overview.png" width="85%" />
 </p>
 
 <p align="center">
-  <img src="public/screenshots/dashboard.png" width="85%" />
+  <img src="Public/Screenshots/Monitoring.png" width="85%" />
 </p>
 
 <p align="center">
-  <img src="public/screenshots/dashboard.png" width="85%" />
+  <img src="Public/Screenshots/CI:CD Pipeline.png" width="85%" />
 </p>
 
 <p align="center">
-  <img src="public/screenshots/dashboard.png" width="85%" />
+  <img src="Public/Screenshots/AI Advisor.png" width="85%" />
 </p>
 
 <p align="center">
-  <img src="public/screenshots/dashboard.png" width="85%" />
+  <img src="Public/Screenshots/Script Gen.png" width="85%" />
 </p>
 
 <p align="center">
-  <img src="public/screenshots/dashboard.png" width="85%" />
+  <img src="Public/Screenshots/Settings.png" width="85%" />
 </p>
 
 <p align="center">
-  <img src="public/screenshots/dashboard.png" width="85%" />
+  <img src="Public/Screenshots/Settings(1).png" width="85%" />
 </p>
 
-<p align="center">
-  <img src="public/screenshots/dashboard.png" width="85%" />
-</p>
+
 ## 🛠 Tech Stack
 
 ### **Frontend**
@@ -187,6 +183,6 @@ http://localhost:5173
 ## 🧑‍💻 Author
 
 Aaron James
-- Instagram: https://instagram.com/aj_ron_james
-- Portfolio: 
-- LinkedIn: https://www.linkedin.com/in/aaron-james-9703a6388/
+- <a href="https://www.instagram.com/avtracks?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"> Instagram </a>
+- <a href="" target="_blank"> Portfolio </a>
+- <a href="https://www.linkedin.com/in/aaron-james-9703a6388/" target="_blank">LinkedIn </a>
